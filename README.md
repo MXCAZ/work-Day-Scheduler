@@ -10,8 +10,8 @@ use a text editor to view all coding
 
 ## Websites 
 
-     GitHub:
-     Deployed:
+     GitHub:https://github.com/MXCAZ/work-Day-Scheduler#work-day-scheduler
+     Deployed:https://mxcaz.github.io/work-Day-Scheduler/
 
 ## Functionality 
 
